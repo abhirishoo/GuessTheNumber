@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+    font-family:"Neue Montreal"
+}
+.inputing{
+    width:30vw
+}
+.buttons{
+    margin-top:10px
+}
+.startGame:disabled{
+    cursor:not-allowed
+}
